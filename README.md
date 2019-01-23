@@ -10,7 +10,7 @@ A Virtual machine (NOT a docker container) that comes with WRF-ARW code compiled
 - As many CPU's as you can get access to
 - VirtualBoX 6.0 (or equivalent)
 
-First of all, you'll need to download the VM itself <a href= >here:</a>
+First of all, you'll need to download the VM itself <a href="https://drive.google.com/file/d/18z2hPCsAJHmfv7r1AOwa7DZt1t8BzjXt/view?usp=sharing">here:</a>
 
 To setup, simply import the .ova file from within VirtualBox (File > import appliance) and the rest is self-explanatory. 
 
