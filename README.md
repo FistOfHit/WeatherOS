@@ -2,7 +2,9 @@
 
 # WeatherOS
 
-A Virtual machine (NOT a docker container) that comes with WRF-ARW code compiled and ready to use, along with the huge terrestrial data files and some scripts to help automate the not-immediately-clear process of using WRF-ARW software. Also, I've included some other software for visualisation and post-processing that should help! (like zsh+ohmyzsh)
+A Virtual machine (NOT a docker container) that comes with WRF-ARW code[1] compiled and ready to use, along with the huge terrestrial data files and some scripts to help automate the not-immediately-clear process of using WRF-ARW software. Also, I've included some other software for visualisation and post-processing that should help!
+
+If you want to check out the software itself on its own, and user guides as well as technical documents from the organisation itself, go <a href="http://www2.mmm.ucar.edu/wrf/users/">here:</a>
 
 ## Requirements and installation ##
 - 50GB storage space
@@ -39,3 +41,7 @@ If you want to help improve the VM, update the software, or correct any mistakes
 ## License ##
 
 MIT license, feel free to use and develop for your own investigations!
+
+## References ##
+[1]: Skamarock, W. C., J. B. Klemp, J. Dudhia, D. O. Gill, D. M. Barker, M. G Duda, X.-Y. Huang, W. Wang, and J. G. Powers, 2008: A Description of the Advanced Research WRF Version 3. NCAR Tech. Note NCAR/TN-475+STR, 113 pp.
+doi:10.5065/D68S4MVH
