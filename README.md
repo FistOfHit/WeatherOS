@@ -38,6 +38,8 @@ Additionally, if you think you can do better manually, I've also included NCL an
 ## Contributing ##
 If you want to help improve the VM, update the software, or correct any mistakes I may have made, then feel free to contact me and let me know, I'm open to updating the VM over time (released as V1.0). 
 
+The WRF-ARW code itself and all documentation was created by the group referenced below, and not by me. I simply copmiled it (pretty difficult) and added some automation scripts. 
+
 ## License ##
 
 MIT license, feel free to use and develop for your own investigations!
