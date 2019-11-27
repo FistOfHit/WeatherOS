@@ -16,6 +16,8 @@ First of all, you'll need to download the VM itself <a href="https://drive.googl
 
 To setup, simply import the .ova file from within VirtualBox (File > import appliance) and the rest is self-explanatory. 
 
+NOTE: Replace the files ```/home/weather/Desktop/Build_WRF/DATA/get_data_gfs.sh``` and ```/home/weather/Desktop/Build_WRF/run_forecast.sh``` in the VM with the equivalent files in this repository, since they are updated. Also the autosuggestions addon to oh-my-zsh needs an update/name change so...
+
 ## Usage ##
 
 ### Running simulations ###
