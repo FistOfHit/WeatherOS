@@ -26,7 +26,7 @@ do
 
 		if (( hour < 10 ))
 		then
-			axel -a ${URL}/gfs.${YEAR}${MONTH}${DAY}${starthour}/gfs.t${starthour}z.pgrb2.0p25.f00${hour}
+			axel -a ${URL}/gfs.${YEAR}${MONTH}${DAY}/${starthour}/gfs.t${starthour}z.pgrb2.0p25.f00${hour}
 			echo -e "\n $hour hour file downloaded \n"
 			continue
 		fi
@@ -34,7 +34,7 @@ do
 
 		if (( 10 <= hour )) && (( hour < 100 ))
 		then
-    	axel -a ${URL}/gfs.${YEAR}${MONTH}${DAY}${starthour}/gfs.t${starthour}z.pgrb2.0p25.f0${hour}
+    			axel -a ${URL}/gfs.${YEAR}${MONTH}${DAY}/${starthour}/gfs.t${starthour}z.pgrb2.0p25.f0${hour}
 			echo -e "\n $hour hour file downloaded \n"
 			continue
     fi
