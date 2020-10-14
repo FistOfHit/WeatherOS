@@ -20,6 +20,8 @@ NOTE: Replace the files ```/home/weather/Desktop/Build_WRF/DATA/get_data_gfs.sh`
 
 ## Usage ##
 
+VM password is: password
+
 ### Running simulations ###
 To make life easy for those who just want to play around and run a few small simulations for the current day over the UK, I've included scripts that automate the whole process. For this, you have to:
 - Startup the VM
